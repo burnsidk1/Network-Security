@@ -6,5 +6,5 @@ attacks and experimentation.
 
 Table of Contents:
 1. Cybersecurity Tools
-   (Exploring Ubuntu Home Lab)
-https://github.com/burnsidk1/Network-Security/blob/main/Exploring-Ubuntu-Home-Lab.md
+      (Exploring Ubuntu Home Lab)
+   https://github.com/burnsidk1/Network-Security/blob/main/Exploring-Ubuntu-Home-Lab.md
