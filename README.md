@@ -3,3 +3,8 @@ These projects include hands on experiments, labs and reports that correlate wit
 this repository was executed and tested using a virtual machine to ensure self-contained security and to prevent 
 from overwriting system files. The virtual machine allows for the simulation of preventetive security measures, 
 attacks and experimentation.
+
+Table of Contents:
+1. Cybersecurity Tools
+      (Exploring Ubuntu Home Lab)
+   https://github.com/burnsidk1/Network-Security/blob/main/Exploring-Ubuntu-Home-Lab.md
