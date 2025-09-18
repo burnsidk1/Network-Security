@@ -4,7 +4,7 @@ https://github.com/burnsidk1/Network-Security/blob/main/Screenshots/1%20-%20Iden
 
 2) sudo netstat -tuln 
 Can be used to identify all of the open ports and their services. This helps to identify which ports don't need to be open and are therefore potential vulnerabilities. Shows network connections, routing tables and interface information.
-https://github.com/burnsidk1/Network-Security/blob/main/Screenshots/2%20-%20Check%20Open%20Ports.png
+!(https://github.com/burnsidk1/Network-Security/blob/main/Screenshots/2%20-%20Check%20Open%20Ports.png)
 
 3) sudo lsof -i -P -n
 Lists all open connections to the system. This can help someone identify unathorized connections. "lsof" stands for "list open files".
